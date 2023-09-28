@@ -1,0 +1,9 @@
+лень исправлять
+#pip install requests
+#pip install html5lib
+#pip install bs4
+#pip install pandas
+#pip install statsmodels
+#pip install matplotlib
+#pip install seaborn
+#pip install lxml
